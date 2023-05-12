@@ -9,5 +9,5 @@ public class PetType {
         this.name = name;
     }
 
-    private String ddname;
+    private String name;
 }
